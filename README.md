@@ -1,1 +1,9 @@
-# coomparingElements.html
+# coomparingElements.htm
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/JavaScript" src="comparingElements.js"></script>
+</head>
+<body>
+</body>
+</html>
